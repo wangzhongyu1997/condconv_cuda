@@ -1,6 +1,10 @@
 # condconv_cuda
 cuda实现的条件卷积算子
 
+# 依赖
+pytorch >= 1.8.1
+cuda >= 11.1
+
 # 安装
 ```sh
 python setup.py install
