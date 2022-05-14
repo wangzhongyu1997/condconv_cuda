@@ -8,7 +8,7 @@ python setup.py install
 
 # 使用示例
 ```python
-
+import torch
 import condconv_cuda 
 
 inp = torch.rand([48,16,128,128]).cuda()
