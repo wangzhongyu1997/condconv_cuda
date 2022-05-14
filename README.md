@@ -13,7 +13,7 @@ python setup.py install
 # 使用示例
 ```python
 
-# 建议通过 condconvFun 来使用，已经封装为可自动求导函数
+# 建议通过 condconvFun.py 来使用，已经封装为可自动求导函数
 import torch
 from . import condconvFun  # 请自行解决路径问题
 
